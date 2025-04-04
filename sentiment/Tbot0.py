@@ -1,7 +1,7 @@
 import requests
 
 # Set OpenRouter API Key
-API_KEY = "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"  
+API_KEY = "Enter your API KEY "  
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 conversation_history = []  # Initialize an empty chat history
